@@ -53,3 +53,13 @@ FROM products;
 
 SELECT CustomerID, CustomerName, Address, Country
 FROM customers;
+
+SELECT ProductID, ProductName, Unit, Price
+                FROM products;
+
+SELECT productId, productName
+FROM products
+WHERE productId = '1';
+
+
+
