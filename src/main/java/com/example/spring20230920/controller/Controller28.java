@@ -1,4 +1,6 @@
-MyDao2package com.example.spring20230920.controller;
+package com.example.spring20230920.controller;
+
+
 
 import com.example.spring20230920.dao.MyDao2;
 import lombok.RequiredArgsConstructor;

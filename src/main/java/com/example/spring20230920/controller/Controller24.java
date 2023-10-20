@@ -1,6 +1,7 @@
 package com.example.spring20230920.controller;
 
 import com.example.spring20230920.domain.MyDto17Supplier;
+import com.example.spring20230920.domain.MyDto18Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

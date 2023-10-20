@@ -1,5 +1,8 @@
 package com.example.spring20230920.dao;
 
+import com.example.spring20230920.domain.MyDto19;
+import com.example.spring20230920.domain.MyDto20;
+import com.example.spring20230920.domain.MyDto21;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
 
