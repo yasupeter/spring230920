@@ -1,5 +1,7 @@
 package com.example.spring20230920.controller;
 
+import com.example.spring20230920.dao.MyDao3;
+import com.example.spring20230920.domain.MyDto24;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -2,7 +2,6 @@ package com.example.spring20230920.controller;
 
 import com.example.spring20230920.dao.MyDao6;
 import com.example.spring20230920.domain.MyDto37;
-import com.example.spring20230920.domain.MyDto38;
 import com.example.spring20230920.service.MyService1;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
